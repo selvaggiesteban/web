@@ -496,12 +496,12 @@ a.scroll_down:before {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 100vh;
+  min-height: 100vh;
   background: url("../images/experiental-marketing.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  padding: 0 10px;
+  padding: 100px 10px;
 }
 #flyer img {
   width: 100%;
