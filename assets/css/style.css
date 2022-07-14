@@ -599,6 +599,12 @@ footer p {
   .social {
     display: none !important;
   }
+  .cta-1 {
+  font-size: 18px !important;
+}
+  .cta-2 {
+  font-size: 18px !important;
+}
   #proceso {
     display: none;
   }
